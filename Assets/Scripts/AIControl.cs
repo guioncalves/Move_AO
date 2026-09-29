@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class AIControl : MonoBehaviour {
 
+    //Teste Git
     public GameObject goal;
     NavMeshAgent agent;
 
